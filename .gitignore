@@ -1,0 +1,12 @@
+target/
+
+.DS_store
+/Heart/nbproject/
+/Coin/nbproject/
+/CollisionDetection/nbproject/
+/Spawner/nbproject/
+/HUD/nbproject/
+/Obstacle/nbproject/
+/Weapon/nbproject/
+/AI/nbproject/
+/Enemy/nbproject/
